@@ -7,7 +7,13 @@
     "mainlandStd": "美利坚",
     "taiwanStd": "美利堅",
     "phoneticTag": "粵閩轉音",
-    "notes": "「利」反映粵語缺乏捲舌聲母 /r/，故借用 /l/ 聲母；「堅」反映東南沿海方言（閩粵語）保留古漢語舌根音 /k-/。"
+    "notes": "「利」反映粵語缺乏捲舌聲母 /r/，故借用 /l/ 聲母；「堅」反映東南沿海方言（閩粵語）保留古漢語舌根音 /k-/。",
+    "latitude": 37.0902,
+    "longitude": -95.7129,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "合眾國 / 聯邦國",
+    "sourcePassage": "《瀛寰志略·卷九》：「米利堅〈米一作彌，即亞墨利加之轉音，或作美利哥，一稱亞墨理駕合衆國，又稱兼攝邦國，又稱聯邦國，西語名育奈士迭〉……計國二十六、部三。」"
   },
   {
     "id": "US_EST_002",
@@ -18,7 +24,13 @@
     "mainlandStd": "哥伦比亚",
     "taiwanStd": "哥倫比亞",
     "phoneticTag": "粵閩轉音",
-    "notes": "對應 Columbia 之四音節發音。其中「米」對應 /bi/ 音節，反映了閩粵方言中雙唇鼻音 /m/ 與濁塞音 /b/ 相通的語音特徵。"
+    "notes": "對應 Columbia 之四音節發音。其中「米」對應 /bi/ 音節，反映了閩粵方言中雙唇鼻音 /m/ 與濁塞音 /b/ 相通的語音特徵。",
+    "latitude": 38.8951,
+    "longitude": -77.0364,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "都城 (不列於諸國諸部)",
+    "sourcePassage": "《瀛寰志略·卷九》：「哥倫米阿〈一作戈攬彌阿，又作力士勒果勒彌阿〉，在馬理蘭內港西汊之尾，勿爾吉尼阿之西北，地跨兩國，周四十里，合衆國之都城也。」"
   },
   {
     "id": "US_EST_003",
@@ -29,7 +41,13 @@
     "mainlandStd": "喬治敦",
     "taiwanStd": "喬治城",
     "phoneticTag": "粵閩轉音",
-    "notes": "晚清譯名「查治當」採用閩粵方言擬音（「查治」以齒齦音 /ts-/ 擬 George /dʒɔːrdʒ/；「當」擬 -town /taʊn/）。"
+    "notes": "晚清譯名「查治當」採用閩粵方言擬音（「查治」以齒齦音 /ts-/ 擬 George /dʒɔːrdʒ/；「當」擬 -town /taʊn/）。",
+    "latitude": 38.9097,
+    "longitude": -77.0654,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "城 (都城附郭)",
+    "sourcePassage": "《瀛寰志略·卷九》：「迤西別一城，曰查治當，有書院、鑄炮局。」"
   },
   {
     "id": "US_EST_004",
@@ -40,7 +58,13 @@
     "mainlandStd": "亚历山德里亚",
     "taiwanStd": "亞歷山卓",
     "phoneticTag": "多音節全譯/粵閩轉音",
-    "notes": "含以『特』字擬合輔音 /d/）；其中『力』（粵音 lik6）利用入聲韻尾 -k 精確擬合 lex-，『釐』（粵音 lei4）則反映東南沿海方言以 /l/ 擬合 /r/ 的語音規律。"
+    "notes": "含以『特』字擬合輔音 /d/）；其中『力』（粵音 lik6）利用入聲韻尾 -k 精確擬合 lex-，『釐』（粵音 lei4）則反映東南沿海方言以 /l/ 擬合 /r/ 的語音規律。",
+    "latitude": 38.8048,
+    "longitude": -77.0469,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "城 (都城對岸)",
+    "sourcePassage": "《瀛寰志略·卷九》：「對岸別一城，曰阿力山特釐阿，有鑄炮局、育嬰館。」"
   },
   {
     "id": "US_EST_005",
@@ -51,7 +75,13 @@
     "mainlandStd": "緬因",
     "taiwanStd": "緬因",
     "phoneticTag": "粵閩轉音",
-    "notes": "晚清『緬』（粵音 min5）反映閩粵方言對雙元音加鼻音 /meɪn/ 的對音；『賣內』則反映依拼寫（Mai-ne）將不發音末尾 -e 強行譯出的字面多音節全譯模式。"
+    "notes": "晚清『緬』（粵音 min5）反映閩粵方言對雙元音加鼻音 /meɪn/ 的對音；『賣內』則反映依拼寫（Mai-ne）將不發音末尾 -e 強行譯出的字面多音節全譯模式。",
+    "latitude": 45.2538,
+    "longitude": -69.4455,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「緬國〈一作洺，又作賣內〉，在合衆國極東北隅……道光元年，別立爲緬國。」"
   },
   {
     "id": "US_EST_006",
@@ -62,7 +92,13 @@
     "mainlandStd": "奧古斯塔",
     "taiwanStd": "奧古斯塔",
     "phoneticTag": "粵閩轉音",
-    "notes": "晚清譯名反映東南口岸方言習慣：以『士』（粵音 si6）擬合閉音節擦音 -s-，以『大』（閩粵音 daai6/tōa）擬合詞尾 -ta。"
+    "notes": "晚清譯名反映東南口岸方言習慣：以『士』（粵音 si6）擬合閉音節擦音 -s-，以『大』（閩粵音 daai6/tōa）擬合詞尾 -ta。",
+    "latitude": 44.3106,
+    "longitude": -69.7795,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「以奧古士大爲會城，有大書院二所。」"
   },
   {
     "id": "US_EST_007",
@@ -73,7 +109,13 @@
     "mainlandStd": "新罕布什尔",
     "taiwanStd": "新罕布夏",
     "phoneticTag": "粵閩轉音/音意合譯",
-    "notes": "『紐罕什爾』採純音譯（『紐』粵音 nau2 擬 New），且『罕/韓』敏銳捕捉到了字母 p 在 Hampshire 連讀中的不發音特徵；『紐含社』則為省譯。"
+    "notes": "『紐罕什爾』採純音譯（『紐』粵音 nau2 擬 New），且『罕/韓』敏銳捕捉到了字母 p 在 Hampshire 連讀中的不發音特徵；『紐含社』則為省譯。",
+    "latitude": 43.1939,
+    "longitude": -71.5724,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (初立為「部」，後列為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「紐罕什爾國〈一作紐韓詩爾，又作紐含社，又作新韓賽，又作新杭西勒，紐即譯言新也〉……乾隆六年，別立爲紐罕什爾部，後歸於合衆國。」"
   },
   {
     "id": "US_EST_008",
@@ -84,7 +126,13 @@
     "mainlandStd": "康科德",
     "taiwanStd": "康科德",
     "phoneticTag": "粵閩轉音",
-    "notes": "晚清譯名展現東南口岸方言擬音特徵：以『公』（粵音 gung1 / 閩音 kong）擬合 Con-；並利用粵語入聲字『突』（dat6）帶有短促韻尾 -t 的語音特性，與『哥』組合（哥突）還原詞尾 -cord 的爆破音 /d/。"
+    "notes": "晚清譯名展現東南口岸方言擬音特徵：以『公』（粵音 gung1 / 閩音 kong）擬合 Con-；並利用粵語入聲字『突』（dat6）帶有短促韻尾 -t 的語音特性，與『哥』組合（哥突）還原詞尾 -cord 的爆破音 /d/。",
+    "latitude": 43.2081,
+    "longitude": -71.5376,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰公哥突，有大書院。」"
   },
   {
     "id": "US_EST_009",
@@ -95,7 +143,13 @@
     "mainlandStd": "朴茨茅斯",
     "taiwanStd": "樸茨茅斯",
     "phoneticTag": "粵閩轉音",
-    "notes": "『波子』（粵音 bo1-zi2）以齒齦音 /ts/ 擬合 Ports- 的詞尾 -ts；『某』（粵音 mau5）對應弱讀詞尾 -mouth（/məθ/）。"
+    "notes": "『波子』（粵音 bo1-zi2）以齒齦音 /ts/ 擬合 Ports- 的詞尾 -ts；『某』（粵音 mau5）對應弱讀詞尾 -mouth（/məθ/）。",
+    "latitude": 43.0718,
+    "longitude": -70.7626,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "城 (軍港城邑)",
+    "sourcePassage": "《瀛寰志略·卷九》：「東南隅有波子某城，港口深穩，合衆國兵船皆泊於此。」"
   },
   {
     "id": "US_EST_010",
@@ -106,7 +160,13 @@
     "mainlandStd": "佛蒙特",
     "taiwanStd": "佛蒙特",
     "phoneticTag": "粵閩轉音",
-    "notes": "以『漥』（粵音 waa1）之合口雙唇音 /w-/ 擬合外語唇齒音 /v-/；並利用粵語入聲字『的』（dik1）短促收尾的特性還原詞尾爆破音 -t。"
+    "notes": "以『漥』（粵音 waa1）之合口雙唇音 /w-/ 擬合外語唇齒音 /v-/；並利用粵語入聲字『的』（dik1）短促收尾的特性還原詞尾爆破音 -t。",
+    "latitude": 44.5588,
+    "longitude": -72.5778,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「窪滿的國〈一作屋滿的，一作窪門，又作華滿，又作法爾滿，又作委爾蒙〉……山多杉木，冬夏常青，故名其地曰窪滿的，譯言綠山也。」"
   },
   {
     "id": "US_EST_011",
@@ -117,7 +177,13 @@
     "mainlandStd": "蒙特利埃",
     "taiwanStd": "蒙佩利爾",
     "phoneticTag": "粵閩轉音",
-    "notes": "以粵語/閩語對音：『滿』（mun5）擬 Mont-，『比』（bei2）擬 -pe-，『釐』（lei4）擬 -li-，『阿』（aa3）補足詞尾元音 -er。"
+    "notes": "以粵語/閩語對音：『滿』（mun5）擬 Mont-，『比』（bei2）擬 -pe-，『釐』（lei4）擬 -li-，『阿』（aa3）補足詞尾元音 -er。",
+    "latitude": 44.2601,
+    "longitude": -72.5754,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰滿比釐阿，有書院。」"
   },
   {
     "id": "US_EST_012",
@@ -128,7 +194,13 @@
     "mainlandStd": "马萨诸塞",
     "taiwanStd": "麻薩諸塞",
     "phoneticTag": "粵閩轉音",
-    "notes": "『麻沙/馬薩』以閩粵齒齦音 /s-/ 擬 Mas-sa-；『朱/諸』擬 -chu-（/tʃuː/）；並利用粵語入聲字『色』（sik1）、『碩』（sek6）之短促韻尾擬合閉音節 -set-。"
+    "notes": "『麻沙/馬薩』以閩粵齒齦音 /s-/ 擬 Mas-sa-；『朱/諸』擬 -chu-（/tʃuː/）；並利用粵語入聲字『色』（sik1）、『碩』（sek6）之短促韻尾擬合閉音節 -set-。",
+    "latitude": 42.4072,
+    "longitude": -71.3824,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「麻沙朱色士國〈一作馬薩諸色士，又作馬沙朱碩斯，又作馬沙諸些，又作馬撒主悉，又作馬薩諸塞〉，在紐罕什爾、窪滿的之南……」"
   },
   {
     "id": "US_EST_013",
@@ -139,10 +211,16 @@
     "mainlandStd": "波士顿",
     "taiwanStd": "波士頓",
     "phoneticTag": "粵閩轉音",
-    "notes": "「摩」在閩南語或粵語中對應 /b/ 音節，此譯法經由廣州/廈門通事口傳沿用。"
+    "notes": "「摩」在閩南語或粵語中對應 /b/ 音節，此譯法經由廣州/廈門通事口傳沿用。",
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 / 大都會 / 第二埔頭",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城在東界，曰摩士敦，爲合衆國大都會……城外近臨海港，在合衆國埔頭爲第二。」"
   },
   {
-     "id": "US_EST_014",
+    "id": "US_EST_014",
     "qingName": "洛哀倫/律愛倫/爾羅曖倫/羅德島/羅底島",
     "type": "州",
     "region": "東路",
@@ -150,7 +228,13 @@
     "mainlandStd": "罗德岛",
     "taiwanStd": "羅德島",
     "phoneticTag": "粵閩轉音/音意合譯",
-    "notes": "早期純音譯（『洛哀倫/律愛倫』）利用閩粵入聲字『洛/律』擬合 Rhode 末尾的 /d/，並精確捕捉了 Island 中字母 s 不發音的特徵（『哀倫』對 /aɪ.lənd/）；中期走向音意結合（『羅底島/羅德島』），將 Island 意譯為『島』。"
+    "notes": "早期純音譯（『洛哀倫/律愛倫』）利用閩粵入聲字『洛/律』擬合 Rhode 末尾的 /d/，並精確捕捉了 Island 中字母 s 不發音的特徵（『哀倫』對 /aɪ.lənd/）；中期走向音意結合（『羅底島/羅德島』），將 Island 意譯為『島』。",
+    "latitude": 41.5801,
+    "longitude": -71.4774,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 島部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「洛哀倫國〈一作律愛倫，又作爾羅曖倫，又作羅德島，又作羅底島〉……哀倫譯言島，洛哀倫，譯言島部也。」"
   },
   {
     "id": "US_EST_015",
@@ -161,7 +245,13 @@
     "mainlandStd": "普罗维登斯",
     "taiwanStd": "普洛威頓斯",
     "phoneticTag": "粵閩轉音",
-    "notes": "首音節複輔音 /pr-/ 拆解為『波羅』，並以半元音『威』擬合 /v/。"
+    "notes": "首音節複輔音 /pr-/ 拆解為『波羅』，並以半元音『威』擬合 /v/。",
+    "latitude": 41.824,
+    "longitude": -71.4128,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「土產鐵煤，會城曰波羅威士頓。」"
   },
   {
     "id": "US_EST_016",
@@ -172,7 +262,13 @@
     "mainlandStd": "纽波特",
     "taiwanStd": "紐波特",
     "phoneticTag": "意譯組合",
-    "notes": ""
+    "notes": "",
+    "latitude": 41.4901,
+    "longitude": -71.3128,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C5_Semantic_Hybrid (音意兼譯/方位通名意譯)",
+    "historicalAdminTerm": "海港 (新灣)",
+    "sourcePassage": "《瀛寰志略·卷九》：「城外有海港曰新灣，港內有小島，其國以此島爲名。」"
   },
   {
     "id": "US_EST_017",
@@ -183,7 +279,13 @@
     "mainlandStd": "康涅狄格",
     "taiwanStd": "康乃狄克",
     "phoneticTag": "粵閩轉音",
-    "notes": "敏銳捕捉到了英語中字母 -c- 不發音的口語特徵（/nɛt.ɪ/），並利用粵語入聲字『吉』（gat1）擬合末音節 -cut；『袞特底格』則屬字面硬拼。"
+    "notes": "敏銳捕捉到了英語中字母 -c- 不發音的口語特徵（/nɛt.ɪ/），並利用粵語入聲字『吉』（gat1）擬合末音節 -cut；『袞特底格』則屬字面硬拼。",
+    "latitude": 41.6032,
+    "longitude": -73.0877,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「干捏底吉國〈一作干尼底吉，又作哥內的吉，又作袞特底格，又作捏的格爾〉……有大河曰干捏底吉，發源緬國，由此入海，故以水名爲國名。」"
   },
   {
     "id": "US_EST_018",
@@ -194,7 +296,13 @@
     "mainlandStd": "新伦敦",
     "taiwanStd": "新倫敦",
     "phoneticTag": "粵閩轉音",
-    "notes": "『倫』（粵 leon4）擬合首音節 Lon-（/ˈlʌn-/）；『敦』（粵 deon1）以不送氣清塞音 /t-/ 精確對應末音節 -don（/-dən/）。"
+    "notes": "『倫』（粵 leon4）擬合首音節 Lon-（/ˈlʌn-/）；『敦』（粵 deon1）以不送氣清塞音 /t-/ 精確對應末音節 -don（/-dən/）。",
+    "latitude": 41.3557,
+    "longitude": -72.0995,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (雙會城之一)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城有二，一曰哈得富耳，在河濱，有大書院一；一曰紐倫敦，在海口，有大書院四。」"
   },
   {
     "id": "US_EST_019",
@@ -205,7 +313,13 @@
     "mainlandStd": "哈特福德",
     "taiwanStd": "哈特福",
     "phoneticTag": "粵閩轉音",
-    "notes": "借用粵語入聲字『德』（dak1）捕捉 Hart- 的閉音節 /t/，並以『富耳』擬合詞尾 -ford。"
+    "notes": "借用粵語入聲字『德』（dak1）捕捉 Hart- 的閉音節 /t/，並以『富耳』擬合詞尾 -ford。",
+    "latitude": 41.7658,
+    "longitude": -72.6734,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (雙會城之一)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城有二，一曰哈得富耳，在河濱，有大書院一；一曰紐倫敦，在海口，有大書院四。」"
   },
   {
     "id": "US_EST_020",
@@ -216,7 +330,13 @@
     "mainlandStd": "纽约",
     "taiwanStd": "紐約",
     "phoneticTag": "粵閩轉音",
-    "notes": "『紐育』與『紐約克』利用粵語入聲字『育（jok6）』與『約（joek3）』精確擬合尾音 -k；『紐約爾』屬依拼寫硬譯字母 -r- 的產物；『新約』則屬意譯。"
+    "notes": "『紐育』與『紐約克』利用粵語入聲字『育（jok6）』與『約（joek3）』精確擬合尾音 -k；『紐約爾』屬依拼寫硬譯字母 -r- 的產物；『新約』則屬意譯。",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 會城 / 第一埔頭",
+    "sourcePassage": "《瀛寰志略·卷九》：「紐約爾國〈一作紐約克，又作紐育，又作新約，又作新約基〉，米利堅大國也……會城亦名紐約爾，外通海港，爲合衆國第一埔頭。」"
   },
   {
     "id": "US_EST_021",
@@ -227,7 +347,13 @@
     "mainlandStd": "奥尔巴尼",
     "taiwanStd": "奧爾巴尼",
     "phoneticTag": "字母拼寫直譯",
-    "notes": "將首音節 Al- 依拼寫字面誤譯為開元音『阿爾』。"
+    "notes": "將首音節 Al- 依拼寫字面誤譯為開元音『阿爾』。",
+    "latitude": 42.6526,
+    "longitude": -73.7562,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C3_Syllable_Reduction (弱讀音節省略/縮減)",
+    "historicalAdminTerm": "大市鎮 (歷史州府記為大市鎮)",
+    "sourcePassage": "《瀛寰志略·卷九》：「有大市鎮二，曰阿爾巴尼，曰推來。」"
   },
   {
     "id": "US_EST_022",
@@ -238,7 +364,13 @@
     "mainlandStd": "特洛伊",
     "taiwanStd": "特洛伊",
     "phoneticTag": "粵閩轉音",
-    "notes": "「粵語『推 teoi1』揉合複輔音 /tr-/，『來 loi4』擬合雙元音 /-ɔɪ/。"
+    "notes": "「粵語『推 teoi1』揉合複輔音 /tr-/，『來 loi4』擬合雙元音 /-ɔɪ/。",
+    "latitude": 42.7284,
+    "longitude": -73.6918,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "大市鎮",
+    "sourcePassage": "《瀛寰志略·卷九》：「有大市鎮二，曰阿爾巴尼，曰推來。」"
   },
   {
     "id": "US_EST_023",
@@ -249,7 +381,13 @@
     "mainlandStd": "新泽西",
     "taiwanStd": "紐澤西",
     "phoneticTag": "粵閩轉音 / 字母拼寫直譯 / 半音半意",
-    "notes": "『紐惹西』屬極道地的粵閩口岸對音（以『惹 je2』擬 Jer-）；『新遮些』屬粵語半音半意譯；『紐折爾西/新日爾塞』屬依拼寫字面硬譯字母 -r- 的產物；『紐約爾些』則屬受相鄰地名 New York（紐約）影響或傳抄筆誤。"
+    "notes": "『紐惹西』屬極道地的粵閩口岸對音（以『惹 je2』擬 Jer-）；『新遮些』屬粵語半音半意譯；『紐折爾西/新日爾塞』屬依拼寫字面硬譯字母 -r- 的產物；『紐約爾些』則屬受相鄰地名 New York（紐約）影響或傳抄筆誤。",
+    "latitude": 40.0583,
+    "longitude": -74.4057,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「紐折爾西國〈一作紐約爾些，又作紐惹西，又作新遮些，又作新日爾塞〉，北界紐約爾，西界賓夕爾勒尼安……」"
   },
   {
     "id": "US_EST_024",
@@ -260,7 +398,13 @@
     "mainlandStd": "特伦顿",
     "taiwanStd": "翠登",
     "phoneticTag": "字母拼寫直譯",
-    "notes": "依英語字母音節拆解之音譯。"
+    "notes": "依英語字母音節拆解之音譯。",
+    "latitude": 40.2206,
+    "longitude": -74.7597,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C3_Syllable_Reduction (弱讀音節省略/縮減)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰特連頓，設正副統領。居民三十八萬零。」"
   },
   {
     "id": "US_EST_025",
@@ -271,10 +415,16 @@
     "mainlandStd": "宾夕法尼亚",
     "taiwanStd": "賓夕法尼亞",
     "phoneticTag": "粵閩轉音/字母拼寫直譯/極簡縮譯",
-    "notes": "『邊西耳文』採縮寫形態；『品林』則是極獨特的雙字縮譯（『品』擬 Penn-，『林』兼顧 -sylvania 意為森林之原義）。"
+    "notes": "『邊西耳文』採縮寫形態；『品林』則是極獨特的雙字縮譯（『品』擬 Penn-，『林』兼顧 -sylvania 意為森林之原義）。",
+    "latitude": 41.2033,
+    "longitude": -77.1945,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 大部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「賓夕爾勒尼安國〈一作邊西爾威尼阿，又作賓西窪尼阿，又作邊西耳文，又作奔西爾瓦尼，又作品林〉……故以姓名其地，曰賓夕爾勒尼安，譯言賓之林野也。」"
   },
   {
-     "id": "US_EST_026",
+    "id": "US_EST_026",
     "qingName": "非勒特爾非爾/費拉地費/兄弟愛",
     "type": "城市",
     "region": "東路",
@@ -282,10 +432,16 @@
     "mainlandStd": "费拉德尔菲亚（费城）",
     "taiwanStd": "費拉德爾菲亞（費城）",
     "phoneticTag": "粵閩轉音/字母拼寫直譯/希臘詞源意譯",
-    "notes": "『兄弟愛』則是極罕見的希臘詞源意譯（Philos 兄弟 + Adelphos 愛）。"
+    "notes": "『兄弟愛』則是極罕見的希臘詞源意譯（Philos 兄弟 + Adelphos 愛）。",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 / 第三埔頭",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰非勒特爾非爾〈一作費拉地費，又作兄弟愛〉，在東南隅，建於特爾拉華河口……爲合衆國第三埔頭。」"
   },
   {
-     "id": "US_EST_027",
+    "id": "US_EST_027",
     "qingName": "特爾拉華/底拉華/地那窪/德拉委爾/列勒威爾",
     "type": "州",
     "region": "東路",
@@ -293,7 +449,13 @@
     "mainlandStd": "特拉华",
     "taiwanStd": "德拉瓦",
     "phoneticTag": "方言 n/l 混淆 / 尾音 -r 還原",
-    "notes": "『地那窪』可能反映了華南方言 l/n 不分；『德拉委爾』則強行還原了尾音字母 -r 為『爾』。"
+    "notes": "『地那窪』可能反映了華南方言 l/n 不分；『德拉委爾』則強行還原了尾音字母 -r 為『爾』。",
+    "latitude": 38.9108,
+    "longitude": -75.5277,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 小部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「特爾拉華國〈一作底拉華，又作地那窪，又作德拉委爾，又作列勒威爾〉……爲特爾拉華河下游，故以水名爲國名。」"
   },
   {
     "id": "US_EST_028",
@@ -304,7 +466,13 @@
     "mainlandStd": "多佛",
     "taiwanStd": "多佛",
     "phoneticTag": "唇齒音 /f/ 擬 /v/ / 規範尾音對音",
-    "notes": "借漢語唇齒音『發（f-）』來擬合英語 /v/ 聲母及尾音 /-ver/。"
+    "notes": "借漢語唇齒音『發（f-）』來擬合英語 /v/ 聲母及尾音 /-ver/。",
+    "latitude": 39.1582,
+    "longitude": -75.5244,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「土田卑濕，貿易無多。會城曰多發。設統領一。」"
   },
   {
     "id": "US_EST_029",
@@ -315,7 +483,13 @@
     "mainlandStd": "马里兰",
     "taiwanStd": "馬里蘭",
     "phoneticTag": "粵閩轉音/字母拼寫直譯",
-    "notes": "『馬黎郎』帶有華南口岸粵語對音特徵（以『郎』擬 -land）；『麥爾釐蘭』則是看著字母拼寫逐字硬譯（把字母 -r- 硬譯為『爾』）。"
+    "notes": "『馬黎郎』帶有華南口岸粵語對音特徵（以『郎』擬 -land）；『麥爾釐蘭』則是看著字母拼寫逐字硬譯（把字母 -r- 硬譯為『爾』）。",
+    "latitude": 39.0458,
+    "longitude": -76.6413,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「馬理蘭國〈一作馬里蘭，又作馬黎郎，又作麥爾釐蘭〉……值英吉利女主馬理在位，故名之曰馬理蘭。馬理譯言王后，蘭譯言地也。」"
   },
   {
     "id": "US_EST_030",
@@ -326,7 +500,13 @@
     "mainlandStd": "安纳波利斯",
     "taiwanStd": "安納波利斯",
     "phoneticTag": "自然音譯",
-    "notes": "晚清譯名和現代譯名基本一致，現代譯名依照規範將希臘語城邦詞尾 -polis 完整譯出擦音為『利斯』。"
+    "notes": "晚清譯名和現代譯名基本一致，現代譯名依照規範將希臘語城邦詞尾 -polis 完整譯出擦音為『利斯』。",
+    "latitude": 38.9784,
+    "longitude": -76.4922,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰阿那波里，有書院。官制與諸國同。」"
   },
   {
     "id": "US_EST_031",
@@ -337,7 +517,13 @@
     "mainlandStd": "弗吉尼亚",
     "taiwanStd": "維吉尼亞",
     "phoneticTag": "拉丁語詞源舊譯保留",
-    "notes": "早期天主教或拉丁語轉譯系統（Virginia /vir-gi-ni-a/）遺留的譯名，將 Vir- 拆解為「威額爾」，尾音簡化為「拿」。"
+    "notes": "早期天主教或拉丁語轉譯系統（Virginia /vir-gi-ni-a/）遺留的譯名，將 Vir- 拆解為「威額爾」，尾音簡化為「拿」。",
+    "latitude": 37.4316,
+    "longitude": -78.6569,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「勿爾吉尼阿國〈一作費爾治尼阿，又作委爾濟尼阿，又作窪治尼阿，又作費治彌亞，又作威額爾拿〉……更名曰勿爾吉尼阿，譯言貞女，用以讚揚女主也。」"
   },
   {
     "id": "US_EST_032",
@@ -348,7 +534,13 @@
     "mainlandStd": "詹姆斯敦",
     "taiwanStd": "詹姆士敦",
     "phoneticTag": "粵閩轉音",
-    "notes": "占（zim1）：精確擬合首音節 /dʒeɪmz/ 的舌葉塞擦音與鼻音韻尾。士（si6）：擬合詞尾擦音 /-z/ 或 /-s/"
+    "notes": "占（zim1）：精確擬合首音節 /dʒeɪmz/ 的舌葉塞擦音與鼻音韻尾。士（si6）：擬合詞尾擦音 /-z/ 或 /-s/",
+    "latitude": 37.208,
+    "longitude": -76.7773,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "初墾地 (殖民聚落)",
+    "sourcePassage": "《瀛寰志略·卷九》：「明中葉，英吉利王占士時〈未知是顯理第幾〉，英人初墾此土，因名其地曰占士。」"
   },
   {
     "id": "US_EST_033",
@@ -359,10 +551,16 @@
     "mainlandStd": "里士满",
     "taiwanStd": "里奇蒙",
     "phoneticTag": "粵閩轉音/塞擦音拆解/l/r 對音",
-    "notes": "『里（l-）』擬 /r-/ 聲母，並拆解塞擦音 -ch- 為『士』。"
+    "notes": "『里（l-）』擬 /r-/ 聲母，並拆解塞擦音 -ch- 為『士』。",
+    "latitude": 37.5407,
+    "longitude": -77.436,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城在東界海濱，曰里是滿，有大書院。」"
   },
   {
-     "id": "US_EST_034",
+    "id": "US_EST_034",
     "qingName": "北喀爾勒那/那弗喀爾勒那/北格羅來納/北甲羅里那/北戈羅里/北駕羅連/北加洛粦",
     "type": "州",
     "region": "東路",
@@ -370,7 +568,13 @@
     "mainlandStd": "北卡罗来纳",
     "taiwanStd": "北卡羅萊納",
     "phoneticTag": "粵閩轉音/k/g聲母濁化/入聲擬/θ// 陽聲韻對音/半音半意",
-    "notes": "『那弗-』依『粵閩轉音』將 North 全音譯（入聲『弗』擬 /θ/）；『格/戈/甲/駕』反映了華南口岸 k/g 不分及粵語喉音對音；『粦/連』為嶺南陽聲韻對音。"
+    "notes": "『那弗-』依『粵閩轉音』將 North 全音譯（入聲『弗』擬 /θ/）；『格/戈/甲/駕』反映了華南口岸 k/g 不分及粵語喉音對音；『粦/連』為嶺南陽聲韻對音。",
+    "latitude": 35.7596,
+    "longitude": -79.0193,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「北喀爾勒那國〈一作那弗喀爾勒那，那弗，譯言北也，又作北格羅來納，又作北甲羅里那，又作北戈羅里，又作北駕羅連，又作北加洛粦〉……」"
   },
   {
     "id": "US_EST_035",
@@ -381,7 +585,13 @@
     "mainlandStd": "罗利",
     "taiwanStd": "洛里",
     "phoneticTag": "粵閩轉音/l/r 聲母混同",
-    "notes": "用『喇（l-）』擬合 /r-/ 聲母。"
+    "notes": "用『喇（l-）』擬合 /r-/ 聲母。",
+    "latitude": 35.7796,
+    "longitude": -78.6382,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰喇里，設正統領一，參辦七人，僚佐數十。」"
   },
   {
     "id": "US_EST_036",
@@ -392,10 +602,16 @@
     "mainlandStd": "南卡罗来纳",
     "taiwanStd": "南卡羅萊納",
     "phoneticTag": "粵閩轉音/半音半意",
-    "notes": "『搜士』依『粵閩轉音』將 South 全音譯。"
+    "notes": "『搜士』依『粵閩轉音』將 South 全音譯。",
+    "latitude": 33.8361,
+    "longitude": -81.1637,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「南喀爾勒那國〈一作搜士喀爾勒那，搜士，譯言南也，餘與北國同〉……會城曰個倫比亞，有大書院二。」"
   },
   {
-     "id": "US_EST_037",
+    "id": "US_EST_037",
     "qingName": "若耳治/若爾熱/若治阿/熱爾治阿/熱可加/磋治阿/惹爾日亞",
     "type": "州",
     "region": "東路",
@@ -403,7 +619,13 @@
     "mainlandStd": "佐治亚",
     "taiwanStd": "喬治亞",
     "phoneticTag": "粵閩轉音/法語語源轉音/濁塞擦音/dʒ-/對音",
-    "notes": "『若/惹/熱』反映了受法語 Georges（/ʒɔʁʒ/）影響或粵語日母對音；『耳/爾』視覺還原字母 -r-；『磋/佐』採用齒音字對應首音節。"
+    "notes": "『若/惹/熱』反映了受法語 Georges（/ʒɔʁʒ/）影響或粵語日母對音；『耳/爾』視覺還原字母 -r-；『磋/佐』採用齒音字對應首音節。",
+    "latitude": 32.1656,
+    "longitude": -82.9001,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「若耳治國〈一作若爾熱，又作若治阿，又作熱爾治阿，又作熱可加，又作磋治阿，又作惹爾日亞〉……時英王爲若耳治第二，遂名之曰若耳治。」"
   },
   {
     "id": "US_EST_038",
@@ -414,7 +636,13 @@
     "mainlandStd": "米利奇维尔",
     "taiwanStd": "米利奇維爾",
     "phoneticTag": "粵閩轉音 / 塞擦音 /-dʒ-/ 對音 / -ville 詞尾省譯",
-    "notes": "『靡里』對應 Milled-，『治』對應 -dge-，並將地名後綴 -ville 省譯。"
+    "notes": "『靡里』對應 Milled-，『治』對應 -dge-，並將地名後綴 -ville 省譯。",
+    "latitude": 33.0801,
+    "longitude": -83.2321,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (1848年舊州府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰靡理治，有大書院。官制與諸部略同。」"
   },
   {
     "id": "US_EST_039",
@@ -425,7 +653,13 @@
     "mainlandStd": "俄亥俄",
     "taiwanStd": "俄亥俄",
     "phoneticTag": "粵閩轉音 / 日譯漢字當字 / 首尾 /oʊ-/ 對音 / 中間雙元音 /-haɪ-/ 對音",
-    "notes": "以『倭/呵/阿』擬合首尾 /oʊ-/，以『海/希/喜/亥』擬合重音節 /-haɪ-/。"
+    "notes": "以『倭/呵/阿』擬合首尾 /oʊ-/，以『海/希/喜/亥』擬合重音節 /-haɪ-/。",
+    "latitude": 40.4173,
+    "longitude": -82.9071,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「倭海阿國〈一作呵海呵，又作呵希呵，又作阿喜呵，又作呵宜約〉，在賓夕爾勒尼安之西……」"
   },
   {
     "id": "US_EST_040",
@@ -436,10 +670,16 @@
     "mainlandStd": "哥伦布",
     "taiwanStd": "哥倫布",
     "phoneticTag": "粵閩轉音 / -m 閉唇韻尾擬音 / 詞尾 /-s/ 獨立轉写",
-    "notes": "『攬（laam5）』精確對應音節 -lum- 中的閉唇鼻音 /-m/，並以『士』字還原詞尾 /-s/。"
+    "notes": "『攬（laam5）』精確對應音節 -lum- 中的閉唇鼻音 /-m/，並以『士』字還原詞尾 /-s/。",
+    "latitude": 39.9612,
+    "longitude": -82.9988,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰戈攬模士。設官如諸國。」"
   },
   {
-     "id": "US_EST_041",
+    "id": "US_EST_041",
     "qingName": "密執安/米詩干/彌治顏/迷詩安",
     "type": "州",
     "region": "東路",
@@ -447,10 +687,16 @@
     "mainlandStd": "密歇根",
     "taiwanStd": "密西根",
     "phoneticTag": "粵閩轉音 / 法語源擦音 /-ʃ-/ 對音 / 粵音軟顎聲母擬音",
-    "notes": "『密執安』，依『粵閩轉音』以『執』擬 -chi-，『安』擬 -an；『米詩干/迷詩安』精確還原擦音 /-ʃ-/；『彌治顏』則借粵音『顏（ngaan4）』擬合軟顎音 /ɡ-/。"
+    "notes": "『密執安』，依『粵閩轉音』以『執』擬 -chi-，『安』擬 -an；『米詩干/迷詩安』精確還原擦音 /-ʃ-/；『彌治顏』則借粵音『顏（ngaan4）』擬合軟顎音 /ɡ-/。",
+    "latitude": 44.3148,
+    "longitude": -85.6024,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「密執安國〈一作米詩干，又作彌治顏，又作迷詩安〉，東北距休侖湖……道光十五年，始歸合衆國。」"
   },
   {
-     "id": "US_EST_042",
+    "id": "US_EST_042",
     "qingName": "底特律",
     "type": "城市",
     "region": "東路",
@@ -458,10 +704,16 @@
     "mainlandStd": "底特律",
     "taiwanStd": "底特律",
     "phoneticTag": "粵閩轉音 / 法語源（détroit）擬音 / 入聲字 /-t/ 詞尾對音",
-    "notes": "『底特律』，依『粵閩轉音』借粵音入聲字『特（dak6）』與『律（leot6）』還原 -troit 及詞尾 /-t/。"
+    "notes": "『底特律』，依『粵閩轉音』借粵音入聲字『特（dak6）』與『律（leot6）』還原 -troit 及詞尾 /-t/。",
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (1847年前舊州府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰底特律。設官如諸國。」"
   },
   {
-     "id": "US_EST_043",
+    "id": "US_EST_043",
     "qingName": "阡的伊/建德基/建大基/根特機/根都機",
     "type": "州",
     "region": "東路",
@@ -469,7 +721,13 @@
     "mainlandStd": "肯塔基",
     "taiwanStd": "肯塔基",
     "phoneticTag": "粵閩轉音 / 軟顎塞音對音 / 入聲字 /-k/ 韻尾還原",
-    "notes": "借粵音入聲字『德/特（dak）』精確還原音節 -tuck- 中的爆破音 /-k/；『阡的伊』亦採入聲字『的（dik）』對音；『建大基/根都機』則省譯 /-k/ 韻尾。"
+    "notes": "借粵音入聲字『德/特（dak）』精確還原音節 -tuck- 中的爆破音 /-k/；『阡的伊』亦採入聲字『的（dik）』對音；『建大基/根都機』則省譯 /-k/ 韻尾。",
+    "latitude": 37.8393,
+    "longitude": -84.27,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「阡的伊國〈一作建德基，又作建大基，又作根特機，又作根都機〉，在勿爾吉尼阿之西……地居二十六國之中。」"
   },
   {
     "id": "US_EST_044",
@@ -480,10 +738,16 @@
     "mainlandStd": "哈罗兹堡",
     "taiwanStd": "哈洛茲柏格",
     "phoneticTag": "粵閩轉音 / 入聲字 /-d-/ 韻尾對音 / 地名後綴省譯",
-    "notes": "依『粵閩轉音』以『暇（haa6）』擬 Har-，借入聲字『律（leot6）』對應 -rod- 的 /-d-/ 音，並以『士』轉寫 /-dz/（省譯 -burg）。"
+    "notes": "依『粵閩轉音』以『暇（haa6）』擬 Har-，借入聲字『律（leot6）』對應 -rod- 的 /-d-/ 音，並以『士』轉寫 /-dz/（省譯 -burg）。",
+    "latitude": 37.7626,
+    "longitude": -84.843,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "邑 (早期聚落)",
+    "sourcePassage": "《瀛寰志略·卷九》：「至三十八年，來者漸衆，立一邑曰暇律士。」"
   },
   {
-     "id": "US_EST_045",
+    "id": "US_EST_045",
     "qingName": "法蘭富耳",
     "type": "城市",
     "region": "東路",
@@ -491,7 +755,13 @@
     "mainlandStd": "法兰克福",
     "taiwanStd": "法蘭克福",
     "phoneticTag": "粵閩轉音/唇齒擦音 /-f-/ 對音 / 詞尾 /-rt/ 轉寫",
-    "notes": "以『富（fu3）』擬合 -fort 的 /f-/ 音，並以『耳』字還原詞尾 /-rt/。"
+    "notes": "以『富（fu3）』擬合 -fort 的 /f-/ 音，並以『耳』字還原詞尾 /-rt/。",
+    "latitude": 38.2009,
+    "longitude": -84.8733,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰法蘭富耳，有大學堂。」"
   },
   {
     "id": "US_EST_046",
@@ -502,7 +772,13 @@
     "mainlandStd": "路易斯维尔",
     "taiwanStd": "路易維爾",
     "phoneticTag": "粵閩轉音 / 法語源人名對音 / 地名後綴 (-ville) 擦音省簡",
-    "notes": "依『粵閩轉音』以『累（leoi6）』擬 Louis-，並以『士（si6）』簡轉地名後綴 -ville。"
+    "notes": "依『粵閩轉音』以『累（leoi6）』擬 Louis-，並以『士（si6）』簡轉地名後綴 -ville。",
+    "latitude": 38.2527,
+    "longitude": -85.7585,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "大市鎮",
+    "sourcePassage": "《瀛寰志略·卷九》：「別有大市鎮二，曰累士，曰歷星頓。」"
   },
   {
     "id": "US_EST_047",
@@ -513,7 +789,13 @@
     "mainlandStd": "莱克星顿",
     "taiwanStd": "萊辛頓",
     "phoneticTag": "粵閩轉音 / 入聲字 /-k/ 還原字母 X (/ks/) 輔音叢",
-    "notes": "以粵語入聲字『歷（lik6）』精確還原字母 X 中 /ks/ 的 /k/ 爆破音，並以『星』銜接 /s/ 與 -ing。s"
+    "notes": "以粵語入聲字『歷（lik6）』精確還原字母 X 中 /ks/ 的 /k/ 爆破音，並以『星』銜接 /s/ 與 -ing。s",
+    "latitude": 38.0406,
+    "longitude": -84.5037,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "大市鎮",
+    "sourcePassage": "《瀛寰志略·卷九》：「別有大市鎮二，曰累士，曰歷星頓。」"
   },
   {
     "id": "US_EST_048",
@@ -524,10 +806,16 @@
     "mainlandStd": "佛罗里达",
     "taiwanStd": "佛羅里達",
     "phoneticTag": "閩粵轉音/複輔音/fl-/ 拆解/入聲字/-d-/對音/ 佛經音譯字",
-    "notes": "Flor- 拆解為 佛(/f/)勒(/l/)爾(/r/) 極致還原輔音；『佛羅理得』採粵音入聲字『得（dak1）』對應詞尾 -da；『縛利他』則帶有佛經音譯字特徵。"
+    "notes": "Flor- 拆解為 佛(/f/)勒(/l/)爾(/r/) 極致還原輔音；『佛羅理得』採粵音入聲字『得（dak1）』對應詞尾 -da；『縛利他』則帶有佛經音譯字特徵。",
+    "latitude": 27.6648,
+    "longitude": -81.5158,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "部 (Territory 譯為「部」，未列於「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「佛勒爾勒釐部〈一作佛羅理得，又作佛羅里達，又作縛利他，又作費羅里大〉……止設議事處一所，未立統領等官，故不列於諸國。」"
   },
   {
-     "id": "US_EST_049",
+    "id": "US_EST_049",
     "qingName": "達那哈",
     "type": "城市",
     "region": "東路",
@@ -535,7 +823,13 @@
     "mainlandStd": "塔拉哈西",
     "taiwanStd": "塔拉赫西",
     "phoneticTag": "粵閩轉音/l-n 聲母混用/地名尾音省簡",
-    "notes": "以粵音入聲字『達（daat6）』對音 Tal-，受東南沿海方言 l/n 不分影響以『那』擬 -la-，並以『哈』對應 -has-（省譯末音節 -see）。"
+    "notes": "以粵音入聲字『達（daat6）』對音 Tal-，受東南沿海方言 l/n 不分影響以『那』擬 -la-，並以『哈』對應 -has-（省譯末音節 -see）。",
+    "latitude": 30.4383,
+    "longitude": -84.2807,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (領地首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「以達那哈爲會城，止設議事處一所，未立統領等官，故不列於諸國。」"
   },
   {
     "id": "US_WST_001",
@@ -546,7 +840,13 @@
     "mainlandStd": "田纳西",
     "taiwanStd": "田納西",
     "phoneticTag": "粵閩轉音 / 塞音不送氣對音 / 粵音入聲字擬音",
-    "notes": "以『田（tin4）』擬合 Ten- 的不送氣 /t-/ 音與鼻音，『典捏西』、『地尼西』、『德內西』則展現了不同譯者對前元音與入聲爆破感（德 dak1）的擬音嘗試。"
+    "notes": "以『田（tin4）』擬合 Ten- 的不送氣 /t-/ 音與鼻音，『典捏西』、『地尼西』、『德內西』則展現了不同譯者對前元音與入聲爆破感（德 dak1）的擬音嘗試。",
+    "latitude": 35.5175,
+    "longitude": -86.5804,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「田納西國〈一作典捏西，又作地尼西，又作德內西〉……嘉慶元年，立爲國，歸合衆國。」"
   },
   {
     "id": "US_WST_002",
@@ -557,7 +857,13 @@
     "mainlandStd": "纳什维尔",
     "taiwanStd": "納許維爾",
     "phoneticTag": "粵閩轉音 / 齒齦擦音 /-ʃ/ 擬音 / 地名後綴 (-ville) 省簡",
-    "notes": "以『那』對音 Na-，並以『實（sat6）』字的擦音聲母還原 Nash- 末尾的 /ʃ/ 擦音（省譯 -ville）。"
+    "notes": "以『那』對音 Na-，並以『實（sat6）』字的擦音聲母還原 Nash- 末尾的 /ʃ/ 擦音（省譯 -ville）。",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰那實。官制同諸國。」"
   },
   {
     "id": "US_WST_003",
@@ -568,10 +874,16 @@
     "mainlandStd": "亚拉巴马",
     "taiwanStd": "阿拉巴馬",
     "phoneticTag": "粵閩轉音 / l-n 聲母混用 / 雙唇鼻音對音 / 口岸訛音",
-    "notes": "『亞喇罷麻』以『亞』擬前元音 /æ-/；『阿那麻馬』展現東南沿海方言 l/n 不分（Ala- -> 阿那）的鼻音化特徵；『巴里特摩』則為早期口岸訛譯。"
+    "notes": "『亞喇罷麻』以『亞』擬前元音 /æ-/；『阿那麻馬』展現東南沿海方言 l/n 不分（Ala- -> 阿那）的鼻音化特徵；『巴里特摩』則為早期口岸訛譯。",
+    "latitude": 32.3182,
+    "longitude": -86.9023,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「阿拉巴麻國〈一作阿喇巴麻，又作巴里特摩，又作阿那麻馬，又作亞喇罷麻〉……道光元年，別立爲一部，歸合衆國。」"
   },
   {
-     "id": "US_WST_004",
+    "id": "US_WST_004",
     "qingName": "磨庇理",
     "type": "城市",
     "region": "西路",
@@ -579,7 +891,13 @@
     "mainlandStd": "莫比尔",
     "taiwanStd": "莫比爾",
     "phoneticTag": "閩粵轉音/濁塞音不送氣對音",
-    "notes": "以『磨』對音 Mo-，以『庇（bei3）』對音 -bi-，並以『理』音節化轉寫詞尾 -le。"
+    "notes": "以『磨』對音 Mo-，以『庇（bei3）』對音 -bi-，並以『理』音節化轉寫詞尾 -le。",
+    "latitude": 30.6954,
+    "longitude": -88.0399,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 / 南方大埔頭",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰磨庇理灣，建於海口，爲南方大埔頭。」"
   },
   {
     "id": "US_WST_005",
@@ -590,7 +908,13 @@
     "mainlandStd": "密西西比",
     "taiwanStd": "密西西比",
     "phoneticTag": "粵閩轉音/粵音入聲字對音/連續擦音擬音",
-    "notes": "以粵音入聲字『密（mat6）』、『失（sat1）』擬合閉塞音節，並以『必（bit1）』壓縮對音 -sippi；其餘異譯如『米西細比』、『彌斯棲比』則嘗試全音節平譯。"
+    "notes": "以粵音入聲字『密（mat6）』、『失（sat1）』擬合閉塞音節，並以『必（bit1）』壓縮對音 -sippi；其餘異譯如『米西細比』、『彌斯棲比』則嘗試全音節平譯。",
+    "latitude": 32.3547,
+    "longitude": -89.3985,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「密士失必國〈一作米西細比，又作彌斯棲比，又作美士細比，又作米西西比〉……嘉慶二年，歸合衆國。二十二年，立爲一國。」"
   },
   {
     "id": "US_WST_006",
@@ -601,7 +925,13 @@
     "mainlandStd": "杰克逊",
     "taiwanStd": "傑克森",
     "phoneticTag": "粵閩轉音/破擦音/dʒ-/對音",
-    "notes": "以『查（caa4）』對音 /dʒ-/ 聲母，並以『基』音節化轉寫末尾 /k/。"
+    "notes": "以『查（caa4）』對音 /dʒ-/ 聲母，並以『基』音節化轉寫末尾 /k/。",
+    "latitude": 32.2988,
+    "longitude": -90.1848,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰查基遜。官制與諸國同。」"
   },
   {
     "id": "US_WST_007",
@@ -612,7 +942,13 @@
     "mainlandStd": "路易斯安那",
     "taiwanStd": "路易斯安那",
     "phoneticTag": "法語原音轉寫/粵閩轉音/人名致敬譯名",
-    "notes": "法語原音：Louisiane（/lwi.zjan/）；得名於法國國王路易十四（Louis XIV）。"
+    "notes": "法語原音：Louisiane（/lwi.zjan/）；得名於法國國王路易十四（Louis XIV）。",
+    "latitude": 30.9843,
+    "longitude": -91.9623,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「魯西安納國〈一作累西安納，又作雷棲阿那，又作盧宜西安，又作累斯安〉……二十三年，立爲一國。」"
   },
   {
     "id": "US_WST_008",
@@ -623,7 +959,13 @@
     "mainlandStd": "新奥尔良",
     "taiwanStd": "紐奧良",
     "phoneticTag": "法語口岸音譯 / 前綴意譯 / 法國名城音譯轉寫",
-    "notes": "『紐吉士』依『東南口岸音譯』擬合法音 Orléans 或口語 N'Orleans；異譯『新阿爾蘭』則將 New 意譯為『新』，並將 Orléans 音譯為『阿爾蘭』。"
+    "notes": "『紐吉士』依『東南口岸音譯』擬合法音 Orléans 或口語 N'Orleans；異譯『新阿爾蘭』則將 New 意譯為『新』，並將 Orléans 音譯為『阿爾蘭』。",
+    "latitude": 29.9511,
+    "longitude": -90.0715,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 / 城 / 西南大埔頭",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰紐哈連……密士失必河口，外通海港，有城曰那吉士，又名新阿爾蘭，洋艘所聚，爲西南大埔頭。」"
   },
   {
     "id": "US_WST_009",
@@ -634,10 +976,16 @@
     "mainlandStd": "印第安纳",
     "taiwanStd": "印第安納",
     "phoneticTag": "粵閩轉音/官話全音節平譯",
-    "notes": "英釐安納』採東南口岸音以『釐』擬 -di-；異譯『引底安納』與『因地阿那』則更貼近現代官話對音。"
+    "notes": "英釐安納』採東南口岸音以『釐』擬 -di-；異譯『引底安納』與『因地阿那』則更貼近現代官話對音。",
+    "latitude": 40.2672,
+    "longitude": -86.1349,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "國 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「英釐安納國〈一作引底安納，又作因地阿那，又作音的亞那〉，北界密執安……」"
   },
   {
-     "id": "US_WST_010",
+    "id": "US_WST_010",
     "qingName": "英釐安納波里",
     "type": "城市",
     "region": "西路",
@@ -645,7 +993,13 @@
     "mainlandStd": "印第安纳波利斯",
     "taiwanStd": "印第安納波利斯",
     "phoneticTag": "粵閩轉音/希臘語構詞後綴對音/詞尾擦音省譯",
-    "notes": "前半段延用州名舊譯『英釐安納』，後半段以『波里』對音 -polis。"
+    "notes": "前半段延用州名舊譯『英釐安納』，後半段以『波里』對音 -polis。",
+    "latitude": 39.7684,
+    "longitude": -86.1581,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰英釐安納波里。官制同諸國。」"
   },
   {
     "id": "US_WST_011",
@@ -656,10 +1010,16 @@
     "mainlandStd": "伊利诺伊",
     "taiwanStd": "伊利諾",
     "phoneticTag": "法語源詞尾 -s 不發音還原",
-    "notes": "源自阿爾岡昆語族法語轉寫。『伊理奈士』與『依里內士』以『士』還原拼寫末尾字母 -s 的擦音；『意黎乃』則精準捕捉法語源詞尾 -s 不發音特徵；『奕倫諾爾』採混和音譯。"
+    "notes": "源自阿爾岡昆語族法語轉寫。『伊理奈士』與『依里內士』以『士』還原拼寫末尾字母 -s 的擦音；『意黎乃』則精準捕捉法語源詞尾 -s 不發音特徵；『奕倫諾爾』採混和音譯。",
+    "latitude": 40.6331,
+    "longitude": -89.3985,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「奕倫諾爾國〈一作伊理奈士，又作依里內士，又作意黎乃〉……嘉慶十四年，分爲奕倫諾爾部，後歸合衆國。」"
   },
   {
-     "id": "US_WST_012",
+    "id": "US_WST_012",
     "qingName": "灣達里阿",
     "type": "城市",
     "region": "西路",
@@ -667,7 +1027,13 @@
     "mainlandStd": "万达利亚",
     "taiwanStd": "萬達利亞",
     "phoneticTag": "粵閩轉音",
-    "notes": "以『灣』擬 Van-，將 -lia 拆為『里阿』。"
+    "notes": "以『灣』擬 Van-，將 -lia 拆為『里阿』。",
+    "latitude": 38.9606,
+    "longitude": -89.0937,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (1839年前舊州府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰灣達里阿。居民四十七萬六千零。」"
   },
   {
     "id": "US_WST_013",
@@ -678,7 +1044,13 @@
     "mainlandStd": "阿肯色",
     "taiwanStd": "阿肯色",
     "phoneticTag": "法語源詞尾 -s 不發音還原/視讀音譯",
-    "notes": "『阿甘色』以『色』對音詞尾 /sɔː/；『阿干薩士』採視讀音譯以『士』還原拼寫末尾字母 -s。"
+    "notes": "『阿甘色』以『色』對音詞尾 /sɔː/；『阿干薩士』採視讀音譯以『士』還原拼寫末尾字母 -s。",
+    "latitude": 35.201,
+    "longitude": -91.8318,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C6_Vowel_Consonant_Shift (常規元輔音音值演變)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「阿甘色國〈一作阿干薩士，又作阿爾干薩〉……嘉慶二十四年，始別爲一部。道光十六年，歸合衆國。」"
   },
   {
     "id": "US_WST_014",
@@ -689,7 +1061,13 @@
     "mainlandStd": "小石城",
     "taiwanStd": "小岩城",
     "phoneticTag": "全音節官話對音",
-    "notes": "詞尾的 -ck 被省略。"
+    "notes": "詞尾的 -ck 被省略。",
+    "latitude": 34.7465,
+    "longitude": -92.2896,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C3_Syllable_Reduction (弱讀音節省略/縮減)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰力特爾洛，官制同諸國。」"
   },
   {
     "id": "US_WST_015",
@@ -700,7 +1078,13 @@
     "mainlandStd": "密苏里",
     "taiwanStd": "密蘇里",
     "phoneticTag": "捲舌音還原/三音節官話對音/圓唇元音擬音",
-    "notes": "密蘇爾釐』以『蘇爾』還原中段捲舌音 /-zʊər-/；『密蘇理』則簡化流音，為現代譯名前身；『彌梭里』採圓唇音『梭』擬音。"
+    "notes": "密蘇爾釐』以『蘇爾』還原中段捲舌音 /-zʊər-/；『密蘇理』則簡化流音，為現代譯名前身；『彌梭里』採圓唇音『梭』擬音。",
+    "latitude": 37.9643,
+    "longitude": -91.8318,
+    "convergenceStatus": "一致",
+    "phoneticCategory": "C3_Syllable_Reduction (弱讀音節省略/縮減)",
+    "historicalAdminTerm": "國 / 部 (State 譯為「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「密蘇爾釐國〈一作密蘇理，又作彌梭里，又作迷蘇利〉……道光二年，歸合衆國。」"
   },
   {
     "id": "US_WST_016",
@@ -711,7 +1095,13 @@
     "mainlandStd": "杰斐逊城",
     "taiwanStd": "傑佛遜城",
     "phoneticTag": "粵閩轉音",
-    "notes": "『渣』對 Jef-，『旬』對 -son。" 
+    "notes": "『渣』對 Jef-，『旬』對 -son。",
+    "latitude": 38.5767,
+    "longitude": -92.1735,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C2_Dialect_Phonology (閩粵方言聲韻映射)",
+    "historicalAdminTerm": "會城 (州首府)",
+    "sourcePassage": "《瀛寰志略·卷九》：「會城曰渣法旬。官制略同諸國。」"
   },
   {
     "id": "US_WST_017",
@@ -722,7 +1112,13 @@
     "mainlandStd": "威斯康星",
     "taiwanStd": "威斯康辛",
     "phoneticTag": "粵閩轉音",
-    "notes": "「士」粵音：si6；清塞音 /k/與不送氣音 /ɡ/ 或方言中的舌根音「干」通假。"
+    "notes": "「士」粵音：si6；清塞音 /k/與不送氣音 /ɡ/ 或方言中的舌根音「干」通假。",
+    "latitude": 43.7844,
+    "longitude": -88.7879,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "部 / 達多里 (Territory 譯為「部」，未成「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「威士干遜部〈一作威斯滾申達多里〉……北曰威士干遜，居民三萬零；南曰衣呵華，居民四萬三千零。經營方始，未設統領等官，故不成爲國。」"
   },
   {
     "id": "US_WST_018",
@@ -733,8 +1129,12 @@
     "mainlandStd": "艾奧瓦",
     "taiwanStd": "愛荷華",
     "phoneticTag": "雙元音拆解/官話音節對音/詞尾擦音顯性化",
-    "notes": "『衣呵華』，以『呵華』擬合 -owa為現代『愛荷華』前身，『依阿威士』則拆解首元音並以『士』還原族名複數 Iowas 之尾音 -s。"
+    "notes": "『衣呵華』，以『呵華』擬合 -owa為現代『愛荷華』前身，『依阿威士』則拆解首元音並以『士』還原族名複數 Iowas 之尾音 -s。",
+    "latitude": 41.878,
+    "longitude": -93.0977,
+    "convergenceStatus": "分歧",
+    "phoneticCategory": "C1_Coda_Preservation (入聲/塞音韻尾對譯)",
+    "historicalAdminTerm": "部 (Territory 譯為「部」，未成「國」)",
+    "sourcePassage": "《瀛寰志略·卷九》：「衣呵華部〈一作依阿威士〉……北曰威士干遜，居民三萬零；南曰衣呵華，居民四萬三千零。經營方始，未設統領等官，故不成爲國。」"
   }
 ]
-    
-    
